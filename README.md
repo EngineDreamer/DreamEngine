@@ -12,7 +12,7 @@ Game Engine
 4.Go to the build dir, open vs sln, and compile the engine
 
 attention:
-* you'd better using the vs2010 to cmake the engine
+* you'd better use the vs2010 to make the engine
 * both x86 or x64 is OK
 
 2.** How to compile the engine on IOS **
